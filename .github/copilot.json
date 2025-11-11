@@ -1,0 +1,7 @@
+{
+  "version": "1.0",
+  "premium": {
+    "enabled": true,
+    "budget_limit": 20
+  }
+}
